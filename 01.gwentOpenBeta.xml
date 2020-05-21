@@ -1077,6 +1077,7 @@ Spawn: Unseen Elder. Deploy: Deploy: Consume 3 Allies, but Strengthen this unit 
 
 Deploy: Spawn 3 Rabid Wolves and apply Fog to the opposite row. Note: Removed Weather Immunity.
 Rabid Wolf: 1 Strength, Melee, Beast, Loyal, Bronze.</text>
+            <related>Rabid Wolves</related>
             <set picURL="https://i.imgur.com/ZXAEXpa.jpg">MO</set>
         </card>
 
@@ -1211,8 +1212,7 @@ Added Beast Tag.</text>
             <name>Jotunn</name>
             <text>Jotunn, Monsters, Ogroid, 6 Strength, Agile, Loyal, Silver, Epic.
 
-Deploy: Move 3 adjacent Enemies to this Unit’s row on their side and Damage them by 2.
-Lord of Undvik still exists as Hjalmar's Token and was given Ice Giant Artwork from The Witcher 3 Gwent. Old Lord of Undvik Artwork was given to new Monsters standalone card - Jotunn. Added Ogroid Tag to Jotunn and Lord of Undvik.</text>
+Deploy: Move 3 adjacent Enemies to this Unit’s row on their side and Damage them by 2.</text>
             <set picURL="https://i.imgur.com/XRWUEAG.jpg">MO</set>
         </card>
 
@@ -1335,6 +1335,7 @@ Deploy, Brave: Strengthen self by 4 Added as a standalone Monsters card. Prize-W
 Deploy: Give this Unit a Shield. Deathwish: Spawn 2 Lesser Earth Elementals at the end of the row
 Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.
 Added Construct Tag to Earth Elemental and Lesser Earth Elemental. Replaced Lesser Earth Elemental's Fleeting Tag with Doomed.</text>
+            <related>Lesser Earth Elemental</related>
             <set picURL="https://i.imgur.com/7Q93fHk.jpg">MO</set>
         </card>
 
@@ -1730,6 +1731,7 @@ Deploy: Damage Enemies by 3 and then 1.</text>
             <text>6 Strength, Ranged, Elf, Loyal, Bronze, Rare.
 
 Deploy: Spawn a Fireball Trap on an opposing row.</text>
+            <related>Fireball</related>
             <set picURL="https://i.imgur.com/FpsavCT.jpg">ST</set>
         </card>
 
@@ -1957,6 +1959,7 @@ Deploy: Spawn Lord of Undvik on the leftmost side of the opposite row.
 Lord of Undvik - 5 Strength, Agile, Doomed, Ogroid, Disloyal, Silver. When removed from the battlefield, add 10 strength to any Hjalmars on the opposite side.
 Added  Doomed Tag to Lord of Undvik. The ability to Boost Hjalmar was again moved to Lord of Undvik.</text>
             <set picURL="https://i.imgur.com/ys5dKsv.jpg">SK</set>
+            <related>Lord of Undvik</related>
         </card>
 
         <card>
@@ -1966,6 +1969,7 @@ Added  Doomed Tag to Lord of Undvik. The ability to Boost Hjalmar was again move
 After 3 turns, at the start of your turn, Spawn Hemdall.
 Hemdall: 16 Strength, Melee, Doomed, Disloyal, Gold. Deploy: Destroy all Units on the Board. Clear all Weather. Banish all Allied Kambis.</text>
             <set picURL="https://i.imgur.com/VMDOICD.jpg">SK</set>
+            <related>Hemdall</related>
         </card>
 
         <card>
@@ -2001,6 +2005,7 @@ Every turn, at the start of your turn, Strengthen the Unit to the left by 1 and 
 Veteran 1. Deploy: Spawn a Spectral Whale on your opponent's side.
 Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn, at the start of your turn move this unit to a random row on its side and Damage all other Units on the Row by 1.
 Added Specter Tag to Spectral Whale. Replaced Spectral Whale's Fleeting Tag with Doomed. Weather was reworked. Weather Immunity was removed.</text>
+            <related>Spectral Whale</related>
             <set picURL="https://i.imgur.com/NGYgkNc.jpg">SK</set>
         </card>
 
@@ -2258,6 +2263,7 @@ Retaliation: Transform into a Raging Bear.
 Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.
 Removed Shapeshifter tag. Added Cursed tag. Removed Bear tag. Added Beast tag to Raging Bear. Weather was reworked. Weather Immunity was removed.</text>
             <set picURL="https://i.imgur.com/fR4BYVl.jpg">SK</set>
+            <related>Raging Bear</related>
         </card>
 
         <card>
@@ -2317,7 +2323,7 @@ General change: Added Doomed and Stubborn Tags to all Leaders due to their new a
         </card>
 
         <card>
-            <name>Treason</name>
+            <name>Assassination</name>
             <text>Event, Gold, Special, Legendary.
 
 Lock and Destroy an Enemy.</text>
@@ -2598,7 +2604,7 @@ Deploy: Draw the top 2 Bronze Units (not including Emissaries) from your Deck. P
         </card>
 
         <card>
-            <name>Experimental Remedy</name>
+            <name>Vicovaro Medic</name>
             <text>1 Strength, Ranged, Doomed, Loyal, Bronze, Rare.
 
 Deploy: Resurrect a Bronze Unit from your opponent's Graveyard.
@@ -2680,6 +2686,7 @@ Always revealed all cards (incl. Golds), now the tooltip states it so.</text>
 Deploy: Spawn a Cow Carcass on your opponent's row.
 Cow Carcass: 1 Strength, Agile, Doomed, Beast, Disloyal, Bronze. Timer 2, Turn End: Destroy the Weakest Unit(s) on the row, then Banish this Unit.</text>
             <set picURL="https://i.imgur.com/0mLKtAF.jpg">NG</set>
+            <related>Cow Carcass</related>
         </card>
 
         <card>
@@ -2700,6 +2707,78 @@ Bug Fix: Fixed an issue whereby Ambassador would Boost Units by 12 instead of 10
         </card>
 
 
+<!-- [TK] Tokens -->
+        <card>
+            <token>1</token>
+            <name>Lesser Earth Elementals</name>
+            <text>2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</text>
+            <set picURL="https://i.imgur.com/MIRCQd7.jpg">TK</set>
+            <reverse-related>Primordial D'ao</reverse-related>
+        </card>
+
+        <card>
+            <token>1</token>
+            <name>Raging Bear</name>
+            <text>10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text>
+            <set picURL="https://i.imgur.com/d84F3vp.jpg">TK</set>
+            <reverse-related>Svalblod Ravager</reverse-related>
+        </card>
+
+        <card>
+            <token>1</token>
+            <name>Hemdall</name>
+            <text>16 Strength, Melee, Doomed, Disloyal, Gold. 
+Deploy: Destroy all Units on the Board. Clear all Weather. Banish all Allied Kambis.</text>
+            <set picURL="https://i.imgur.com/V2udHw7.jpg">TK</set>
+            <reverse-related>Kambi</reverse-related>
+        </card>
+
+        <card>
+            <token>1</token>
+            <name>Lord of Undvik</name>
+            <text>5 Strength, Agile, Doomed, Ogroid, Disloyal, Silver. 
+When removed from the battlefield, add 10 strength to any Hjalmars on the opposite side.</text>
+            <set picURL="https://i.imgur.com/mvEKPAs.jpg">TK</set>
+            <reverse-related>Hjalmar</reverse-related>
+        </card>
+
+        <card>
+            <token>1</token>
+            <name>Spectral Whale</name>
+            <text>3 Strength, Agile, Doomed, Specter, Disloyal, Silver.
+            
+Every turn, at the start of your turn move this unit to a random row on its side and Damage all other Units on the Row by 1.</text>
+            <set picURL="https://i.imgur.com/qaDHZYO.jpg">TK</set>
+            <reverse-related>Blueboy Lugos</reverse-related>
+        </card>
         
+        <card>
+            <token>1</token>
+            <name>Cow Carcass</name>
+            <text>1 Strength, Agile, Doomed, Beast, Disloyal, Bronze. 
+            
+Timer 2, Turn End: Destroy the Weakest Unit(s) on the row, then Banish this Unit.</text>
+            <set picURL="https://i.imgur.com/sEBXj3U.jpg">TK</set>
+            <reverse-related>Rot Tosser</reverse-related>
+        </card>
+
+        <card>
+            <token>1</token>
+            <name>Rabid Wolves</name>
+            <text></text>
+            <set picURL="https://i.imgur.com/U5E623h.jpg">TK</set>
+            <reverse-related>Woodland Spirit</reverse-related>
+        </card>
+
+        <card>
+            <token>1</token>
+            <name>Fireball Trap</name>
+            <text>After 1 turn, at the end of your turn, damage all other Units on the Row by 2 strength and banish self.</text>
+            <set picURL="https://i.imgur.com/yLlAEL3.jpg">TK</set>
+            <reverse-related>Dol Blathanna Bomber</reverse-related>
+        </card>
+        
+        
+
     </cards>
 </cockatrice_carddatabase>
