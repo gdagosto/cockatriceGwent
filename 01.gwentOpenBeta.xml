@@ -52,6 +52,7 @@
             <text>Spawn: Foltest. Deploy: Boost all Loyal Bronze and Silver Units in your Hand and Deck by 1.</text>
 
             <set rarity="Leader" picURL="https://i.imgur.com/CcoawFI.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -66,6 +67,7 @@
             <text>Spawn Henselt. Deploy: Choose a Bronze Ally. Play all copies of it from your Deck.</text>
 
             <set rarity="Leader" picURL="https://i.imgur.com/8nU85dH.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -80,6 +82,7 @@
             <text>Spawn: Radovid. Deploy: Toggle 2 Units' Lock. If Enemies, Damage them by 4 as well.</text>
 
             <set rarity="Leader" picURL="https://i.imgur.com/HkQEKMX.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -94,6 +97,7 @@
             <text>If this Unit is in your Deck at the end of the Round, place it on top. Whenever an Enemy is Destroyed during a Round while this Unit is in your Deck, Boost it by 1.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/hYbFaCv.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -108,6 +112,7 @@
             <text>Deploy: Boost up to 3 Bronze or Silver Units in your Deck by 3. Shuffle the others back.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/QOQAj8W.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -122,6 +127,7 @@
             <text>Deploy: Force all Northern Realms Machine Allies to Damage a random Enemy by 2.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/pHx9Mbi.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -137,11 +143,12 @@
 
             <related>Quen Sign</related>
                 
-            <related> Epidemic</related>
+            <related>Epidemic</related>
                 
-            <related> Thunderbolt Potion</related>
+            <related>Thunderbolt Potion</related>
                 
             <set rarity="Gold" picURL="https://i.imgur.com/kKomPy4.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -156,6 +163,7 @@
             <text>Deploy: Damage an Enemy by 5, then Damage random Enemies by 4, 3, 2 and 1. The same Enemy cannot be Damaged twice in a row.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/VYdsNH1.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -170,6 +178,7 @@
             <text>Every turn, at the end of your turn, Boost a random Ally (but never self) by 3. Ability discontinues after the Unit Boosts Allies 4 times without leaving the Board.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/ILNDnXT.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -184,6 +193,7 @@
             <text>Deploy: Resurrect a Unit and add 4 Armor to it.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/PxPMmnE.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -198,6 +208,7 @@
             <text>Deploy: Play the top 2 cards in your Deck.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/okBTz9Z.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -212,6 +223,7 @@
             <text>Every turn, at the start of your turn, Boost all other Lowest Allies by 1.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/Lkc7TFj.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -228,6 +240,7 @@
             <related>Blue Stripes Commando</related>
                 
             <set rarity="Gold" picURL="https://i.imgur.com/mPVWaUb.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -244,6 +257,7 @@
             <related>Lubberkin</related>
                 
             <set rarity="Silver" picURL="https://i.imgur.com/r8RAYBe.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -258,6 +272,7 @@
             <text>Deploy: Spawn Torrential Rain, Clear Skies or Alzur's Thunder.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/0JD1Bjd.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -274,6 +289,7 @@
             <related>Botchling</related>
                 
             <set rarity="Silver" picURL="https://i.imgur.com/6a0Ujt4.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -288,6 +304,7 @@
             <text>Deploy: Reset a Unit and toggle its Lock.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/dzrTYdX.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -302,6 +319,7 @@
             <text>Deploy: Shuffle up to 3 cards from your Graveyard into your Deck.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/BxM20CU.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -316,12 +334,13 @@
             <text>Every turn, at the start of your turn, move this Unit to a random row and Boost all Units on it by 1.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/Wbaoxk2.jpg">NR</set>
+            
         </card> 
     
         <card>
             <name>Prince Stennis</name>
             <prop>
-                <pt>7</pt>
+                <pt>7/2</pt>
                 <type>Agile, Loyal, Epic</type>
                 <maintype>Silver</maintype>
                 <colors>Silver</colors>
@@ -330,6 +349,7 @@
             <text>Every 2 turns, at the start of your turn, Boost this Unit by the number of Machine Allies. Crewmen 1. Deploy: Gain 2 Armor.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/v3FpJmm.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -344,6 +364,7 @@
             <text>Deploy: If neither player has passed, shuffle the Lowest Ally into your Deck, then shuffle the Lowest Enemy into your opponent's Deck. Does not affect Pavetta.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/yOJFUv6.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -358,6 +379,7 @@
             <text>Play a Bronze or Silver Unit from your Deck. Shuffle the others back.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/M7Waa4K.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -372,6 +394,7 @@
             <text>Deathwish: Set all Units on the row to the Power of the Lowest Unit on the row.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/9dR3SXB.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -386,6 +409,7 @@
             <text>Deploy: You may play a Bronze Special card from your Hand. If you do, draw the top card from your Deck.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/mJ1X7oU.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -400,12 +424,13 @@
             <text>Deploy: Draw the top 2 cards from your Deck. Keep 1 and shuffle the other back.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/LwUFuxf.jpg">NR</set>
+            
         </card> 
     
         <card>
             <name>Trollololo</name>
             <prop>
-                <pt>8</pt>
+                <pt>8/5</pt>
                 <type>Agile, Ogroid, Loyal, Epic</type>
                 <maintype>Silver</maintype>
                 <colors>Silver</colors>
@@ -414,6 +439,7 @@
             <text>Counts as part of any Northern Realms Trio on the row. Deploy: Gain 5 Armor.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/h4ZAgfH.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -428,6 +454,7 @@
             <text>Whenever you complete a Northern Realms Trio, play this Unit from your Deck.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/5mMsGnx.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -442,6 +469,7 @@
             <text>Deploy: Play a random Bronze Weather card from your Deck.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/Vow5TxQ.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -456,6 +484,7 @@
             <text>Deploy: Damage an Enemy and up to 3 other random Enemies with the same Power by 1. Fresh Crew: Repeat the Deploy ability.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/upzOzF6.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -470,12 +499,13 @@
             <text>Whenever a different Ally with the same Power as this Unit is played, play this Unit from your Deck (1 copy max) and place it on that Ally's row. Whenever you complete a Blue Stripes Commando Trio, create 1 base copy of a Blue Stripes Commando on the bottom of your Deck.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/nuSS2IU.jpg">NR</set>
+            
         </card> 
     
         <card>
             <name>Blue Stripe Scout</name>
             <prop>
-                <pt>6</pt>
+                <pt>6/2</pt>
                 <type>Agile, Blue Stripes, Loyal, Common</type>
                 <maintype>Bronze</maintype>
                 <colors>Bronze</colors>
@@ -484,6 +514,7 @@
             <text>Deploy: Gain 2 Armor. Deploy: Clear weather from the row on your side Crewmen: 1.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/eB601Qc.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -498,6 +529,7 @@
             <text>If at the start of your turn you have not passed and are losing the Round by more than 20 Power, play this Unit from your Deck</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/s8wTdKF.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -512,6 +544,7 @@
             <text>Deploy: Choose a different Bronze Ally and shuffle it back into your Deck, then play a random Bronze Unit from your Deck.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/XCVIDye.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -526,6 +559,7 @@
             <text>Deploy: Remove Armor from 2 Units and Boost self by the amount of Armor removed.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/OXZTrPq.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -540,6 +574,7 @@
             <text>Deploy: Boost by 1 this Unit and all Bronze Loyal Units with the same Power in your Hand, Deck or on your side of the Board. Crewmen 1.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/ovCWg7x.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -554,6 +589,7 @@
             <text></text>
 
             <set rarity="" picURL="https://i.imgur.com/stptSr1.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -568,6 +604,7 @@
             <text>Deploy or Bond: Boost all Reaver Hunters in your Hand, Deck and on your side of the Board by 1. When a Revear Hunter Trio is completed, Damage the Highest Enemy by half its Power (rounding down and ignoring Armor).</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/ijxjjsC.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -582,12 +619,13 @@
             <text>Deploy: Choose a different Bronze Ally. Play a copy of it from your Deck.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/LFp81hA.jpg">NR</set>
+            
         </card> 
     
         <card>
             <name>Redanian Elite</name>
             <prop>
-                <pt>6</pt>
+                <pt>6/4</pt>
                 <type>Agile, Loyal, Rare</type>
                 <maintype>Bronze</maintype>
                 <colors>Bronze</colors>
@@ -596,6 +634,7 @@
             <text>Whenever this Unit's Armor reaches 0, Boost self by 5. Deploy: Gain 4 Armor.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/KYnpolx.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -610,12 +649,13 @@
             <text>Every turn, at the start of your turn, if this Unit has no Armor, Boost it by 2 and add 2 Armor to it.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/8kg6vHt.jpg">NR</set>
+            
         </card> 
     
         <card>
             <name>Redanian Knight-Elect</name>
             <prop>
-                <pt>5</pt>
+                <pt>5/2</pt>
                 <type>Redanian Knight-Elect, Agile, Loyal, Common</type>
                 <maintype>Bronze</maintype>
                 <colors>Bronze</colors>
@@ -624,6 +664,7 @@
             <text>If this Unit has Armor at the start of your turn, Boost Units adjacent to it by 1. Deploy: Gain 2 Armor.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/WCL53fs.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -638,6 +679,7 @@
             <text>Deploy: Damage an Enemy by 2. Fresh Crew: Repeat the Deploy ability.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/bCmcCmN.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -652,6 +694,7 @@
             <text>Every turn, at the start of your turn, Damage a random Enemy by 1.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/CfLJN1G.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -666,6 +709,7 @@
             <text>Deploy: Return a Machine Ally to your Hand and immediately play it again. Crewmen 1.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/595IXyF.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -680,6 +724,7 @@
             <text>Whenever an Ally appears, Boost it by 1. If it's a Machine, Boost it by 1 and add 1 Armor. Crewmen 1.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/6Pk4iBx.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -694,6 +739,7 @@
             <text>Deploy: Add 2 Armor to Units adjacent to this Unit. Fresh Crew: Boost self by 3.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/F8frnoK.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -708,12 +754,13 @@
             <text>Deploy: Play all Temerian Infantrymen from your Deck.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/xXsP5Lm.jpg">NR</set>
+            
         </card> 
     
         <card>
             <name>Tridam Infantry</name>
             <prop>
-                <pt>8</pt>
+                <pt>8/3</pt>
                 <type>Tridam Infantryman, Melee, Loyal, Common</type>
                 <maintype>Bronze</maintype>
                 <colors>Bronze</colors>
@@ -722,6 +769,7 @@
             <text>Deploy: Gain 3 Armor.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/14AfXCv.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -733,10 +781,10 @@
                 <colors>Bronze</colors>
                 <format-gwent>legal</format-gwent>
             </prop>
-            <text>Deploy: Damage 3 Adjacent Units by 1. Fresh Crew: Increase the Damage dealt by 1.
-Note: Trebuchet will not ignore Armor when damaging now.</text>
+            <text>Deploy: Damage 3 Adjacent Units by 1. Fresh Crew: Increase the Damage dealt by 1.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/EllWmqE.jpg">NR</set>
+            
         </card> 
     
         <card>
@@ -751,6 +799,7 @@ Note: Trebuchet will not ignore Armor when damaging now.</text>
             <text>Deploy: If neither player has passed, both players draw the top 2 cards from their Deck.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/OXAnzSU.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -765,6 +814,7 @@ Note: Trebuchet will not ignore Armor when damaging now.</text>
             <text>Deploy: Damage all other Units by 2.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/hiJwGDJ.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -779,6 +829,7 @@ Note: Trebuchet will not ignore Armor when damaging now.</text>
             <text>At the end of the Round, return this Unit to your Hand if you lost.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/IKFnAuV.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -793,6 +844,7 @@ Note: Trebuchet will not ignore Armor when damaging now.</text>
             <text>When this Unit enters the Graveyard, Strengthen it by 3 and shuffle it back into your Deck.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/T9VsyBv.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -807,6 +859,7 @@ Note: Trebuchet will not ignore Armor when damaging now.</text>
             <text>Deploy: Choose an Enemy and copy its Power.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/BidfkqQ.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -821,6 +874,7 @@ Note: Trebuchet will not ignore Armor when damaging now.</text>
             <text>Play Vesemir and Lambert from your deck.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/7EbVM1Z.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -835,6 +889,7 @@ Note: Trebuchet will not ignore Armor when damaging now.</text>
             <text>Deploy, Brave: Strengthen self enough to tie the Round or to a maximum of 15 base Power.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/fZdWUsi.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -852,6 +907,7 @@ Failure: Your opponent draws the top Bronze or Silver card from their Deck.
 Tie: Both players draw the top Bronze or Silver card from their Deck.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/D5pM0j7.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -866,6 +922,7 @@ Tie: Both players draw the top Bronze or Silver card from their Deck.</text>
             <text>Deploy, Brave: Strengthen self by 3.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/4BUJoG1.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -880,6 +937,7 @@ Tie: Both players draw the top Bronze or Silver card from their Deck.</text>
             <text>Deploy: Push 5 adjacent Enemies on the row above them and Damage them by 2.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/OnTLMEI.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -894,6 +952,7 @@ Tie: Both players draw the top Bronze or Silver card from their Deck.</text>
             <text>Destroy the strongest non-Gold unit(s) on the opposite row if that row totals 20 or more strength.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/1Bab0L1.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -908,6 +967,7 @@ Tie: Both players draw the top Bronze or Silver card from their Deck.</text>
             <text>Deathwish: Boost all Units on the other side of the Board by 3.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/44ELpWJ.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -922,6 +982,7 @@ Tie: Both players draw the top Bronze or Silver card from their Deck.</text>
             <text>Deploy: Discard a card in your Hand (can be Gold), then create a copy in your Hand of a card of the same color in your opponent’s Deck.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/ihU7EzC.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -936,6 +997,7 @@ Tie: Both players draw the top Bronze or Silver card from their Deck.</text>
             <text>Apply Drought on all Rows on your opponent's side. Drought: Every Turn, at the start of your Turn, Damage one of the Lowest Units on the row by 2.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/BtdUsmP.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -951,9 +1013,10 @@ Tie: Both players draw the top Bronze or Silver card from their Deck.</text>
 
             <related>Vesemir</related>
                 
-            <related> Eskel</related>
+            <related>Eskel</related>
                 
             <set rarity="Silver" picURL="https://i.imgur.com/Iz7db9K.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -968,6 +1031,7 @@ Tie: Both players draw the top Bronze or Silver card from their Deck.</text>
             <text>Damage 5 adjacent Units by 4.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/Em8bBhu.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -982,6 +1046,7 @@ Tie: Both players draw the top Bronze or Silver card from their Deck.</text>
             <text>Boost 1 of the Lowest Bronze or Silver Units in your Deck by 2 and play it.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/IU9YZNF.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -996,6 +1061,7 @@ Tie: Both players draw the top Bronze or Silver card from their Deck.</text>
             <text>Damage all Units on a row by half their Power (rounding down and ignoring Armor).</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/6vWBcX1.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1010,6 +1076,7 @@ Tie: Both players draw the top Bronze or Silver card from their Deck.</text>
             <text>Deploy: Damage Units by 2, 2 and then 1.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/S6Qin73.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1024,6 +1091,7 @@ Tie: Both players draw the top Bronze or Silver card from their Deck.</text>
             <text>Banish a Unit from either Graveyard and Boost an Ally by its Power.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/D4VZdFq.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1039,6 +1107,7 @@ Tie: Both players draw the top Bronze or Silver card from their Deck.</text>
 Exhausted Ocvist: 6 Strength, Siege, Draconid, Loyal, Silver. No ability.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/OukYGjN.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1053,6 +1122,7 @@ Exhausted Ocvist: 6 Strength, Siege, Draconid, Loyal, Silver. No ability.</text>
             <text>When this Unit is Discarded or Destroyed, Weaken it by half (rounding up). At the start of Rounds 2 and 3, Resurrect this Unit, if it is in the Graveyard.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/eEi4c6Y.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1067,6 +1137,7 @@ Exhausted Ocvist: 6 Strength, Siege, Draconid, Loyal, Silver. No ability.</text>
             <text>Deploy: Choose a Bronze Unit in your Hand and create a base copy of it in both players' Hands.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/h6Sxqyn.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1082,6 +1153,7 @@ Exhausted Ocvist: 6 Strength, Siege, Draconid, Loyal, Silver. No ability.</text>
 Chort: 6 Strength, Agile, Relict, Loyal, Bronze. Deploy, Brave: Strengthen self by 4.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/btVuFbj.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1096,6 +1168,7 @@ Chort: 6 Strength, Agile, Relict, Loyal, Bronze. Deploy, Brave: Strengthen self 
             <text>Apply Ragh Nar Roog to all rows on your opponent’s side. Ragh Nar Roog: Every turn, at the start of your turn, damage 1 of the Highest Units on the row by 2.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/S65zYfb.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1110,6 +1183,7 @@ Chort: 6 Strength, Agile, Relict, Loyal, Bronze. Deploy, Brave: Strengthen self 
             <text>Timer 2, Turn Start, Boost self by 7, if you are winning the Round.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/9Su73X2.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1124,6 +1198,7 @@ Chort: 6 Strength, Agile, Relict, Loyal, Bronze. Deploy, Brave: Strengthen self 
             <text>Deploy: Look at 3 random Bronze Units from your opponent's Deck. Consume 1, Boost self by base Power of consumed Unit, then shuffle the others back.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/JIEEW6Z.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1138,6 +1213,7 @@ Chort: 6 Strength, Agile, Relict, Loyal, Bronze. Deploy, Brave: Strengthen self 
             <text>Resurrect a Gold Unit from your Graveyard.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/9hcmtMe.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1152,6 +1228,7 @@ Chort: 6 Strength, Agile, Relict, Loyal, Bronze. Deploy, Brave: Strengthen self 
             <text>Whenever you play a Gold Unit from your Hand, play Roach from your Deck on a random row before that Unit's Deploy ability resolves.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/jG2lcgy.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1166,6 +1243,7 @@ Chort: 6 Strength, Agile, Relict, Loyal, Bronze. Deploy, Brave: Strengthen self 
             <text>Play a Gold card from your Deck. Shuffle the others back..</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/Nnd7r2G.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1180,6 +1258,7 @@ Chort: 6 Strength, Agile, Relict, Loyal, Bronze. Deploy, Brave: Strengthen self 
             <text>Deploy: Shuffle a card from your Hand (can be Gold) back into your Deck, then draw the top different card of the same color from your Deck.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/IXpJZfk.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1194,6 +1273,7 @@ Chort: 6 Strength, Agile, Relict, Loyal, Bronze. Deploy, Brave: Strengthen self 
             <text>Destroy all the Highest Units.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/nBlIh7R.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1208,6 +1288,7 @@ Chort: 6 Strength, Agile, Relict, Loyal, Bronze. Deploy, Brave: Strengthen self 
             <text>Apply Skellige Storm to a row on your opponent’s side. Skelige Storm: Every turn, at the start of your turn, Damage the leftmost units on the row by 2, 2 and 1, respectively.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/fZnUVmg.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1222,6 +1303,7 @@ Chort: 6 Strength, Agile, Relict, Loyal, Bronze. Deploy, Brave: Strengthen self 
             <text>Spawn a base copy of the last Enemy your opponent played from their Hand.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/dIpfJnc.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1236,6 +1318,7 @@ Chort: 6 Strength, Agile, Relict, Loyal, Bronze. Deploy, Brave: Strengthen self 
             <text>Draw your top 2 Bronze or Silver cards. Play 1 and shuffle the other back.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/kkDUqEX.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1250,6 +1333,7 @@ Chort: 6 Strength, Agile, Relict, Loyal, Bronze. Deploy, Brave: Strengthen self 
             <text>Deploy: Damage a Unit by 5.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/ebsfBHj.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1264,6 +1348,7 @@ Chort: 6 Strength, Agile, Relict, Loyal, Bronze. Deploy, Brave: Strengthen self 
             <text>Every turn, at the start of your turn, Boost all other Lowest Allies by 1.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/cSEWIVf.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1278,6 +1363,7 @@ Chort: 6 Strength, Agile, Relict, Loyal, Bronze. Deploy, Brave: Strengthen self 
             <text>Deploy: Boost all other Units by 2.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/hXWPEoI.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1292,6 +1378,7 @@ Chort: 6 Strength, Agile, Relict, Loyal, Bronze. Deploy, Brave: Strengthen self 
             <text>Play a Weather card from your Deck.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/HXnFbIl.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1306,6 +1393,7 @@ Chort: 6 Strength, Agile, Relict, Loyal, Bronze. Deploy, Brave: Strengthen self 
             <text>Deploy: Play Eskel and Lambert from your Deck.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/re8oipO.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1320,6 +1408,7 @@ Chort: 6 Strength, Agile, Relict, Loyal, Bronze. Deploy, Brave: Strengthen self 
             <text>After 3 turns, at the start of your turn, Destroy all the Highest Units on the Board.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/XkXlLwb.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1336,6 +1425,7 @@ Chort: 6 Strength, Agile, Relict, Loyal, Bronze. Deploy, Brave: Strengthen self 
             <related>Biting Frost</related>
                 
             <set rarity="Silver" picURL="https://i.imgur.com/eHObWir.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1353,9 +1443,10 @@ Chironex: 1 Strength, Siege, Doomed, Beast, Loyal, Silver. Deploy: Damage all ot
 
             <related>Unicorn</related>
                 
-            <related> Chironex</related>
+            <related>Chironex</related>
                 
             <set rarity="Gold" picURL="https://i.imgur.com/m4VTp9R.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1370,6 +1461,7 @@ Chironex: 1 Strength, Siege, Doomed, Beast, Loyal, Silver. Deploy: Damage all ot
             <text>Turn Start: Damage the Highest Enemy/Enemies by 1.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/ZEJjZZq.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1387,9 +1479,10 @@ Field Marshal Duda: Companion; 1 Strength, Agile, Doomed, Beast, Loyal, Silver. 
 
             <related>Field Marshal Duda: Agitator</related>
                 
-            <related> Field Marshal Duda: Companion</related>
+            <related>Field Marshal Duda: Companion</related>
                 
             <set rarity="Gold" picURL="https://i.imgur.com/LQYeEaT.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1404,6 +1497,7 @@ Field Marshal Duda: Companion; 1 Strength, Agile, Doomed, Beast, Loyal, Silver. 
             <text>Boost one of the Highest Bronze or Silver Units in your Deck by 2, and play it.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/cE6tn0n.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1418,6 +1512,7 @@ Field Marshal Duda: Companion; 1 Strength, Agile, Doomed, Beast, Loyal, Silver. 
             <text>Swap the Power of the Highest and Lowest Unit on the Board.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/phTCnra.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1432,6 +1527,7 @@ Field Marshal Duda: Companion; 1 Strength, Agile, Doomed, Beast, Loyal, Silver. 
             <text>Deploy: Toggle a Unit’s Lock.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/fZnUVmg.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1446,6 +1542,7 @@ Field Marshal Duda: Companion; 1 Strength, Agile, Doomed, Beast, Loyal, Silver. 
             <text>Boost 5 adjacent units by 4.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/IqT8ZWr.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1460,6 +1557,7 @@ Field Marshal Duda: Companion; 1 Strength, Agile, Doomed, Beast, Loyal, Silver. 
             <text>Deploy: Weaken a Unit by 3 or Destroy an Ambush Unit.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/fZ1nUUT.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1474,6 +1572,7 @@ Field Marshal Duda: Companion; 1 Strength, Agile, Doomed, Beast, Loyal, Silver. 
             <text>Return an Ally to your Hand, Boost it by 3 and play it.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/LjQwRxF.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1488,6 +1587,7 @@ Field Marshal Duda: Companion; 1 Strength, Agile, Doomed, Beast, Loyal, Silver. 
             <text>Toggle a Unit’s Resilience.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/3mLrVDA.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1502,6 +1602,7 @@ Field Marshal Duda: Companion; 1 Strength, Agile, Doomed, Beast, Loyal, Silver. 
             <text>Remove 7 strength from a non-Gold unit.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/LySG6pc.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1516,6 +1617,7 @@ Field Marshal Duda: Companion; 1 Strength, Agile, Doomed, Beast, Loyal, Silver. 
             <text>Damage 3 adjacent Units by 4. .</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/FiO6EAA.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1530,6 +1632,7 @@ Field Marshal Duda: Companion; 1 Strength, Agile, Doomed, Beast, Loyal, Silver. 
             <text>Apply Frost to a row on your opponent’s side. Frost: Every turn, at the start of your turn, Damage the Lowest Unit on the row by 2.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/4xTGa22.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1546,6 +1649,7 @@ Clear Skies: Event, Doomed, Bronze. Trigger all Weather on your side, then clear
 Rally: Event, Doomed, Bronze. Play a random Bronze Unit from your Deck.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/VbkZYpN.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1560,6 +1664,7 @@ Rally: Event, Doomed, Bronze. Play a random Bronze Unit from your Deck.</text>
             <text>Choose 3 adjacent units. Reset them to base strength. Convert affected Gold units to Silver or Bronze (their original color).</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/vP5NaeD.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1574,6 +1679,7 @@ Rally: Event, Doomed, Bronze. Play a random Bronze Unit from your Deck.</text>
             <text>Lock or Unlock any unit on the battlefield. If Gold, convert it to Silver (or Bronze, if that was its original color). Locked units lose all tokens and have no ability until replayed or moved to a hand.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/rksdOrC.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1588,6 +1694,7 @@ Rally: Event, Doomed, Bronze. Play a random Bronze Unit from your Deck.</text>
             <text>No Ability.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/kD1NEIt.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1602,6 +1709,7 @@ Rally: Event, Doomed, Bronze. Play a random Bronze Unit from your Deck.</text>
             <text>Destroy the weakest non-Gold unit(s) on the battlefield.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/m6OiFSu.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1616,6 +1724,7 @@ Rally: Event, Doomed, Bronze. Play a random Bronze Unit from your Deck.</text>
             <text>Apply Fog to a row on your opponent's side. Fog: Every turn, at the start of your turn, Damage the Highest Unit on the row by 2.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/ob7me8J.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1630,6 +1739,7 @@ Rally: Event, Doomed, Bronze. Play a random Bronze Unit from your Deck.</text>
             <text>Damage all units on a row by 3.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/dRmdefh.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1644,6 +1754,7 @@ Rally: Event, Doomed, Bronze. Play a random Bronze Unit from your Deck.</text>
             <text>Boost 3 adjacent Units by 3 and add 3 Armor to them.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/RYRvrQb.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1658,6 +1769,7 @@ Rally: Event, Doomed, Bronze. Play a random Bronze Unit from your Deck.</text>
             <text>Damage up to 6 random Enemies by 2.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/4DCXdMd.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1672,6 +1784,7 @@ Rally: Event, Doomed, Bronze. Play a random Bronze Unit from your Deck.</text>
             <text>Boost a Unit by 8.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/epfYp4j.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1686,6 +1799,7 @@ Rally: Event, Doomed, Bronze. Play a random Bronze Unit from your Deck.</text>
             <text>Boost 3 adjacent units by 4.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/1m4jv6B.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1700,6 +1814,7 @@ Rally: Event, Doomed, Bronze. Play a random Bronze Unit from your Deck.</text>
             <text>Apply Rain to a row on your opponent’s side. Rain: Every turn, at the start of your turn, Damage up to 5 of the Lowest Units on the row by 1.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/i3qszbh.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1715,6 +1830,7 @@ Rally: Event, Doomed, Bronze. Play a random Bronze Unit from your Deck.</text>
 Bear: Agile, Beast, Doomed, Loyal, Bronze. No Ability.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/gZxgA8a.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1731,6 +1847,7 @@ Mutagen: Event, Doomed, Bronze. Reset a Unit and Strengthen it by 3.
 Spores: Event, Doomed, Bronze. Reset a Unit and Weaken it by 3.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/RfusXCK.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1745,6 +1862,7 @@ Spores: Event, Doomed, Bronze. Reset a Unit and Weaken it by 3.</text>
             <text>Choose a Unit in your Hand. Give all copies of it in your Hand and Deck a Shield and Boost them by 2. Units which already have Shield cannot be chosen and aren't affected.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/IYtS06l.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1759,6 +1877,7 @@ Spores: Event, Doomed, Bronze. Reset a Unit and Weaken it by 3.</text>
             <text>Boost up to 6 random Allies by 2.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/craGp9P.jpg">GW</set>
+            
         </card> 
     
         <card>
@@ -1773,6 +1892,7 @@ Spores: Event, Doomed, Bronze. Reset a Unit and Weaken it by 3.</text>
             <text>Spawn: Dagon. Deploy: Spawn Biting Frost, Impenetrable Fog or Torrential Rain.</text>
 
             <set rarity="Leader" picURL="https://i.imgur.com/BPTp9fW.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -1795,6 +1915,7 @@ Spores: Event, Doomed, Bronze. Reset a Unit and Weaken it by 3.</text>
             <related>Wild Hunt Warrior</related>
                 
             <set rarity="Leader" picURL="https://i.imgur.com/UUsfhuk.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -1809,6 +1930,7 @@ Spores: Event, Doomed, Bronze. Reset a Unit and Weaken it by 3.</text>
             <text>Spawn: Unseen Elder. Deploy: Deploy: Consume 3 Allies, but Strengthen this unit by their power instead of Boosting.</text>
 
             <set rarity="Leader" picURL="https://i.imgur.com/Vv6kjq5.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -1826,6 +1948,7 @@ Rabid Wolf: 1 Strength, Melee, Beast, Loyal, Bronze.</text>
             <related>Rabid Wolf</related>
                 
             <set rarity="Gold" picURL="https://i.imgur.com/ZXAEXpa.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -1840,6 +1963,7 @@ Rabid Wolf: 1 Strength, Melee, Beast, Loyal, Bronze.</text>
             <text>Deploy: Move 3 Enemies to this Unit's row on your opponent's side and apply Frost to that row on that side only.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/jY0Mmex.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -1854,6 +1978,7 @@ Rabid Wolf: 1 Strength, Melee, Beast, Loyal, Bronze.</text>
             <text>Deploy: Resurrect a unit from your opponent’s Graveyard.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/mojhRH4.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -1868,6 +1993,7 @@ Rabid Wolf: 1 Strength, Melee, Beast, Loyal, Bronze.</text>
             <text>Deploy: Damage a random Enemy by 1 (ignoring Armor). Repeat 6 times.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/y1Tj8QB.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -1882,6 +2008,7 @@ Rabid Wolf: 1 Strength, Melee, Beast, Loyal, Bronze.</text>
             <text>Deploy: Draw the top Gold card and top Silver card from your Deck. Play one and return the other to the top of your Deck.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/cDeEjJL.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -1896,6 +2023,7 @@ Rabid Wolf: 1 Strength, Melee, Beast, Loyal, Bronze.</text>
             <text>Deploy: Damage an Enemy by 4. If the Enemy is under Frost, Damage it by 8 instead.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/gkhtWAN.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -1910,6 +2038,7 @@ Rabid Wolf: 1 Strength, Melee, Beast, Loyal, Bronze.</text>
             <text>Deploy: Consume a Unit from either Graveyard.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/nHxl9J6.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -1924,6 +2053,7 @@ Rabid Wolf: 1 Strength, Melee, Beast, Loyal, Bronze.</text>
             <text>Deploy: Consume a Unit from your Hand, then Boost self by an additional 8.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/i7VDTOq.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -1938,6 +2068,7 @@ Rabid Wolf: 1 Strength, Melee, Beast, Loyal, Bronze.</text>
             <text>If played on your opponent’s side, then after 2 turns, at the end of your turn, move the Highest other Unit on its row to your side.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/jkshiug.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -1952,6 +2083,7 @@ Rabid Wolf: 1 Strength, Melee, Beast, Loyal, Bronze.</text>
             <text>If at the start of your turn there are 2 or fewer Units on the opposite row, fall asleep. Deploy: Damage up to 5 Enemies on the opposite row by 2.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/S0LjXhL.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -1967,6 +2099,7 @@ Rabid Wolf: 1 Strength, Melee, Beast, Loyal, Bronze.</text>
 Old Speartip: Awake - 10 Strength, Agile, Ogroid, Loyal, Gold. If at the start of your turn there are 2 or fewer Units on the opposite row, fall asleep. Deploy: Damage up to 5 Enemies on the opposite row by 2.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/Ym3p3Mb.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -1981,6 +2114,7 @@ Old Speartip: Awake - 10 Strength, Agile, Ogroid, Loyal, Gold. If at the start o
             <text>Deploy: Spawn Torrential Rain, Clear Skies or Lacerate.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/pUskMzg.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -1995,6 +2129,7 @@ Old Speartip: Awake - 10 Strength, Agile, Ogroid, Loyal, Gold. If at the start o
             <text>Play all Crone units from your deck.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/3FvSxKQ.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2009,6 +2144,7 @@ Old Speartip: Awake - 10 Strength, Agile, Ogroid, Loyal, Gold. If at the start o
             <text>Deploy: Move a Unit on another row on this side to this row. Draw the top card from your Deck.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/s1aDeef.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2023,6 +2159,7 @@ Old Speartip: Awake - 10 Strength, Agile, Ogroid, Loyal, Gold. If at the start o
             <text>Deploy: Spawn 3 Lesser Fire Elementals.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/5sSRCch.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2037,6 +2174,7 @@ Old Speartip: Awake - 10 Strength, Agile, Ogroid, Loyal, Gold. If at the start o
             <text>Deploy, Brave: Strengthen self by 4.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/6MuN1JX.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2051,6 +2189,7 @@ Old Speartip: Awake - 10 Strength, Agile, Ogroid, Loyal, Gold. If at the start o
             <text>Deploy: Move 3 adjacent Enemies to this Unit’s row on their side and Damage them by 2.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/XRWUEAG.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2065,6 +2204,7 @@ Old Speartip: Awake - 10 Strength, Agile, Ogroid, Loyal, Gold. If at the start o
             <text>Deploy: Trigger the Deathwish of 3 Units to the right.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/BsiXKyb.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2091,6 +2231,7 @@ Old Speartip: Awake - 10 Strength, Agile, Ogroid, Loyal, Gold. If at the start o
             <related>Arachas Drone</related>
                 
             <set rarity="Silver" picURL="https://i.imgur.com/GOpr4lK.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2105,6 +2246,7 @@ Old Speartip: Awake - 10 Strength, Agile, Ogroid, Loyal, Gold. If at the start o
             <text>After 1 turn, at the start of your turn, Consume all Units in your Graveyard, but only Boost self by 1 for each.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/jgVWSGi.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2119,6 +2261,7 @@ Old Speartip: Awake - 10 Strength, Agile, Ogroid, Loyal, Gold. If at the start o
             <text>Frost Damage on your opponent’s side is increased to 3.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/Mfg8dS8.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2133,6 +2276,7 @@ Old Speartip: Awake - 10 Strength, Agile, Ogroid, Loyal, Gold. If at the start o
             <text>Discard a non-Gold unit and absorb its strength, then draw a card.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/ewiPmPr.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2147,6 +2291,7 @@ Old Speartip: Awake - 10 Strength, Agile, Ogroid, Loyal, Gold. If at the start o
             <text>Play all Crone units from your deck.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/J4JrvoU.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2162,9 +2307,10 @@ Old Speartip: Awake - 10 Strength, Agile, Ogroid, Loyal, Gold. If at the start o
 
             <related>Weavess</related>
                 
-            <related> Brewess</related>
+            <related>Brewess</related>
                 
             <set rarity="Silver" picURL="https://i.imgur.com/XcEfTqR.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2179,12 +2325,13 @@ Old Speartip: Awake - 10 Strength, Agile, Ogroid, Loyal, Gold. If at the start o
             <text>Every turn, at the start of your turn, Boost self by 1 if Fog is anywhere on the Board.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/OvuMSzb.jpg">MO</set>
+            
         </card> 
     
         <card>
             <name>Arachas Behemoth</name>
             <prop>
-                <pt>6</pt>
+                <pt>6/2</pt>
                 <type>Siege, Insectoid, Loyal, Rare</type>
                 <maintype>Bronze</maintype>
                 <colors>Bronze</colors>
@@ -2193,6 +2340,7 @@ Old Speartip: Awake - 10 Strength, Agile, Ogroid, Loyal, Gold. If at the start o
             <text>Whenever an Ally Consumes a card, Spawn an Arachas Drone and Damage self by 1 (ignoring Armor). Deploy: Gain 2 Armor.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/hxd6tOz.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2207,6 +2355,7 @@ Old Speartip: Awake - 10 Strength, Agile, Ogroid, Loyal, Gold. If at the start o
             <text>Deploy: Play all Arachas Drones from your Deck.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/guyrHR4.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2221,6 +2370,7 @@ Old Speartip: Awake - 10 Strength, Agile, Ogroid, Loyal, Gold. If at the start o
             <text>Deploy: Clear Weather from the row on your side.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/IMlv5yH.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2238,6 +2388,7 @@ Harpy Egg: 1 Strength, Agile, Doomed, Loyal, Bronze. When Consumed by another Un
             <related>Harpy Egg</related>
                 
             <set rarity="Bronze" picURL="https://i.imgur.com/6woYdi5.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2252,6 +2403,7 @@ Harpy Egg: 1 Strength, Agile, Doomed, Loyal, Bronze. When Consumed by another Un
             <text>Deploy, Brave: Strengthen self by 4</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/sMDlpzk.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2269,6 +2421,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <related>Lesser Earth Elemental</related>
                 
             <set rarity="Bronze" picURL="https://i.imgur.com/7Q93fHk.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2283,6 +2436,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Move a Unit to this row on its side.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/RBiYPj3.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2297,6 +2451,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Gain Resilience. Deploy: Consume an Ally.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/CPNcdON.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2311,6 +2466,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Toggle a Unit’s Lock. If it’s an Enemy, Damage it by half its Power (rounding down and ignoring Armor).</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/kJjfiv1.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2325,6 +2481,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Whenever you apply Fog to an opposing row, play this Unit from your Deck or Resurrect it on that row on your side. When all Fog has been cleared from the Board, Destroy this Unit.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/2NokGDo.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2339,10 +2496,11 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Consume a random unit from either Graveyard.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/S7mMUnl.jpg">MO</set>
+            
         </card> 
     
         <card>
-            <name>Harpy</name>
+            <name>Harpy-</name>
             <prop>
                 <pt>3</pt>
                 <type>Agile, Beast, Loyal, Rare</type>
@@ -2353,6 +2511,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Trigger the Deathwish of Units adjacent to this Unit.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/wrUEET0.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2369,6 +2528,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <related>Harpy</related>
                 
             <set rarity="Bronze" picURL="https://i.imgur.com/CKIKscj.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2383,6 +2543,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>If Frost is anywhere on the Board, Boost self by 5. When the last Frost is cleared, Damage self by 5.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/2o0m2tW.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2397,6 +2558,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Whenever an Ally Consumes a card while this Unit is in your Hand, Deck or on your side of the Board, Boost self by 1. Deathwish: Play a Nekker from your Deck.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/9bmLltK.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2411,10 +2573,11 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Choose a Bronze Ally and create 2 base copies of it on the bottom of your Deck.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/M20Oo2l.jpg">MO</set>
+            
         </card> 
     
         <card>
-            <name>Griffin</name>
+            <name>Griffin-</name>
             <prop>
                 <pt>8</pt>
                 <type>Siege, Beast, Loyal, Common</type>
@@ -2425,6 +2588,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Move a card from one Graveyard to the other.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/agbO508.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2439,6 +2603,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Consume the Unit to the right. Every 2 turns, at the start of your turn, Consume the Unit to the right.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/2fGvvwO.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2455,6 +2620,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <related>Biting Frost</related>
                 
             <set rarity="Bronze" picURL="https://i.imgur.com/m22LCIZ.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2469,6 +2635,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Choose a different Bronze Wild Hunt Ally. Play a copy of it from your Deck.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/SmP5FCt.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2483,6 +2650,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>At the end of the Round, keep this Unit on the Board if you lost. If this Unit is part of a Trio at the end of your turn, Boost it by 1.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/hCWBwVc.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2497,6 +2665,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Damage an Enemy by 3. If it was Destroyed, Boost self by 2.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/vf9g9FN.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2511,6 +2680,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Damage an Enemy by 3.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/nHueep9.jpg">MO</set>
+            
         </card> 
     
         <card>
@@ -2525,6 +2695,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Spawn Brouver Hoog. Deploy: Play a Silver Unit from your Deck. Shuffle the others back.</text>
 
             <set rarity="Leader" picURL="https://i.imgur.com/E3Ui0Fr.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2539,6 +2710,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Spawn Eithné. Deploy: Resurrect a Special card..</text>
 
             <set rarity="Leader" picURL="https://i.imgur.com/Cq4LaIi.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2553,6 +2725,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Spawn: Francesca. Deploy: Mulligan up to 3 cards.</text>
 
             <set rarity="Leader" picURL="https://i.imgur.com/kRMs2QV.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2567,6 +2740,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: You may Resurrect a Special card from your opponent's Graveyard. If you do, Weaken self by 4.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/sKK2xUP.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2581,6 +2755,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Whenever an Enemy moves to a different row, Damage it by 2. Deploy: Damage an Enemy by 4.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/wZMunVH.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2595,6 +2770,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Play a Bronze or Silver Ambush card from your Deck.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/5IuIOa1.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2609,6 +2785,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Play a Bronze Special card from your Deck, then Spawn a copy of it. Shuffle the others back.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/Y5gBi9f.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2623,6 +2800,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: If neither player has passed, return the Highest Enemy to your opponent's Hand, then return the Highest Ally to your Hand.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/ffgxwyU.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2637,6 +2815,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Boost self by 1 for each Dwarf Ally (including Golds). Damage an Enemy by the number of Elf Allies (including Golds).</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/WHgwk2U.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2651,6 +2830,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Orders: Play this Unit from your Deck on a random row.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/cyqD1OX.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2665,6 +2845,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: You may Transform a card from your Hand (can be Gold) into Scorch.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/9oS0eqT.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2679,6 +2860,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Move 3 Units to this row on their side. If they are Allies, Strengthen them by 2.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/pFrTKNg.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2693,6 +2875,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Play from deck when 5 or more Elves are on your side.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/NRHCBsU.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2707,6 +2890,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Play a random Bronze or Silver Dwarf from your Deck and Boost it by 3.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/Uvo726R.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2721,6 +2905,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Remove an amount equal to this unit's strength from an opposing non-Gold unit.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/TlsqjFO.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2735,6 +2920,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Toggle a Unit's Lock and move it to this row on its side.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/Gov3amr.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2749,6 +2935,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Strengthen all other Bronze and Silver Dwarves in your Deck, Hand and on your side of the Board by 1.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/QyFLgHI.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2763,6 +2950,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Destroy an Ally and Damage an Enemy by the Destroyed Ally's Power.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/pjXfF2S.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2777,12 +2965,13 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Spawn Impenetrable Fog, Clear Skies or Quen Sign.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/FgInbl3.jpg">ST</set>
+            
         </card> 
     
         <card>
             <name>Malena</name>
             <prop>
-                <pt>4</pt>
+                <pt>4/3</pt>
                 <type>Agile, Elf, Loyal, Epic</type>
                 <maintype>Silver</maintype>
                 <colors>Silver</colors>
@@ -2791,6 +2980,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Every turn, at the start of your turn, move a random Unit on another row on this side to this row. Deploy: Gain 3 Armor.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/diAsQil.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2805,6 +2995,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Ambush: When an Enemy appears, turn this Unit over and Damage that Enemy by 5.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/SruecEz.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2819,6 +3010,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Play a Bronze or Silver Special card from your Deck. Shuffle the others back.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/HTj0dph.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2833,6 +3025,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Move all Units on the row to random rows on the same side and Boost self by 1 for each.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/J8zke44.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2847,6 +3040,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Ambush: When your opponent passes, turn this Unit over and Boost 2 Units on each side by 2.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/GmYYIII.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2861,6 +3055,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Draw the top Unit and top Special card from your Deck. Keep 1 and shuffle the other back.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/x09ehpc.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2875,6 +3070,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Whenever a Dwarf Ally (including Golds) is played, Boost self by 1. Deploy: Gain Resilience</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/bIvrw84.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2889,6 +3085,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Whenever this Unit is moved, Boost it by 2. Deploy: Play all Blue Mountain Commandos from your Deck.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/UJEYCYL.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2903,6 +3100,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Deploy: Damage Enemies by 3 and then 1.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/wUXM1hi.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2919,6 +3117,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <related>Fireball Trap</related>
                 
             <set rarity="Bronze" picURL="https://i.imgur.com/FpsavCT.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2933,6 +3132,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
             <text>Every time this Unit is moved, Damage a random Enemy by 2. Deploy: Damage a Unit by 2.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/CjLPy86.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2948,6 +3148,7 @@ Lesser Earth Elemental: 2 Strength, Melee, Doomed, Construct, Loyal, Bronze.</te
 Dol Blathanna Protector will not be buffed by Gold cards played.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/lr0HDCc.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2962,6 +3163,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>Deploy: Move a Unit on another row to this row on its side. If it's an Ally, Boost it by 3.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/HjbxrN2.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2976,6 +3178,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>Deploy: Damage an enemy by 3. If the Unit was not Destroyed, Boost self by 2.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/oToPfH0.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -2990,6 +3193,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>Deploy: Draw the top 2 Bronze Special cards in your Deck. Play 1 and shuffle the other back.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/l9QgpGc.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -3004,6 +3208,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>Deploy: Boost 2 Units to the right by 3.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/2feB7e0.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -3018,6 +3223,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>Whenever a Unit appears on your opponent's side, Boost self by 1.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/kERpKcp.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -3032,6 +3238,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>Deploy: Boost a Unit in your Hand by 3.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/jGJ1ALA.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -3046,6 +3253,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>After 1 turn, at the end of your turn, damage all other Units on the Row by 2 strength and banish self.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/v422ZpJ.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -3060,6 +3268,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>Deploy: Gain Resilience.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/0yyu6qG.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -3074,6 +3283,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>Deploy: Boost an Ally by 3. If it's a Dwarf, Boost by 4 instead.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/QArs2I7.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -3088,6 +3298,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>Deploy: Clear Weather from the row on your side and move a Unit to this row on its side.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/g0KXNd6.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -3102,6 +3313,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>Every turn, at the start of your turn, Boost a random Loyal Unit in your Hand by 1.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/mi4QM2R.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -3116,6 +3328,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>Whenever you Mulligan a card, Damage a random Enemy by 2.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/rYLDQnt.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -3130,6 +3343,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>Deploy: Mulligan a card.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/9rcfXZz.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -3144,6 +3358,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>Ambush: After 2 turns, at the start of your turn, turn this Unit over.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/NWf1FJF.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -3158,6 +3373,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>Whenever you Mulligan a card, Boost self by 1 while in your Hand, Deck or on your side of the Board.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/CYXMrXy.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -3172,6 +3388,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>Whenever you Mulligan this Unit, play it from your Deck immediately.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/jDZDriv.jpg">ST</set>
+            
         </card> 
     
         <card>
@@ -3186,6 +3403,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>Spawn King Bran. Deploy: Discard up to 3 cards from your Deck and Strengthen all Units among them by 1. Then shuffle your deck.</text>
 
             <set rarity="Leader" picURL="https://i.imgur.com/fArE2H6.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3200,6 +3418,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>Spawn: Crach an Craite. Deploy: Play the Highest Loyal Bronze or Silver Unit in your Deck, Strengthen it by 3 and Damage it by 1.</text>
 
             <set rarity="Leader" picURL="https://i.imgur.com/3Q2RWa1.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3214,6 +3433,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>Spawn Harald the Cripple. Deploy: Damage a Unit by 5. If this Destroys it, repeat this ability with Damage Power reduced by 1.</text>
 
             <set rarity="Leader" picURL="https://i.imgur.com/k1RgUlj.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3228,6 +3448,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>Deploy: Move a Unit from your opponent's Graveyard to yours. Every turn, at the start of your turn, Damage self by 1 and Units adjacent to this Unit by 2.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/FMw686o.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3242,6 +3463,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>After 4 Units are Resurrected on your side while this Unit is in the Graveyard, Resurrect it.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/qwFYp2K.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3256,6 +3478,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>Deploy: Pick a Unit and Damage all Units on its row by half their Power (rounding down and ignoring Armor).</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/cRr1YYD.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3270,6 +3493,7 @@ Dol Blathanna Protector will not be buffed by Gold cards played.</text>
             <text>Deploy: Draw the top 2 cards from your Deck, then Discard 2 cards (can be Golds) from your Hand.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/IY1P81M.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3287,6 +3511,7 @@ Lord of Undvik - 5 Strength, Agile, Doomed, Ogroid, Disloyal, Silver. When remov
             <related>Lord of Undvik</related>
                 
             <set rarity="Gold" picURL="https://i.imgur.com/ys5dKsv.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3305,6 +3530,7 @@ Hemdall: 16 Strength, Melee, Doomed, Disloyal, Gold. Deploy: Destroy all Units o
             <related>Hemdall</related>
                 
             <set rarity="Gold" picURL="https://i.imgur.com/VMDOICD.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3319,6 +3545,7 @@ Hemdall: 16 Strength, Melee, Doomed, Disloyal, Gold. Deploy: Destroy all Units o
             <text>Deploy: Discard a Bronze Unit from your Deck and Damage a Unit by the Discarded Unit's base Power.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/2315XXl.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3333,6 +3560,7 @@ Hemdall: 16 Strength, Melee, Doomed, Disloyal, Gold. Deploy: Destroy all Units o
             <text>Every turn, at the end of your turn, Damage by 2 every Damaged Enemy with 2 Power or less.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/GS990jp.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3347,6 +3575,7 @@ Hemdall: 16 Strength, Melee, Doomed, Disloyal, Gold. Deploy: Destroy all Units o
             <text>Every turn, at the start of your turn, Strengthen the Unit to the left by 1 and Damage the Unit to the right by 1.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/ILl25aX.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3364,6 +3593,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <related>Spectral Whale</related>
                 
             <set rarity="Silver" picURL="https://i.imgur.com/NGYgkNc.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3378,6 +3608,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Every turn, at the start of your turn, Strengthen this Unit by 2 if it is the only Unit on the row.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/HoOhNhO.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3392,6 +3623,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Veteran 1. Deploy: Damage 3 Allies by 1 and Strengthen self by 1 for each.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/RXmGmxQ.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3406,6 +3638,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Veteran: 1. Deploy: Toggle a Unit's Lock. Discard a random Bronze card from your opponent's Deck to your Graveyard.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/qiFJDIT.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3420,6 +3653,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Deploy: Strengthen up to 2 Units in your Graveyard by 3.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/hhY4IZA.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3434,6 +3668,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Deploy: Spawn Impenetrable Fog, Clear Skies or Bloodcurdling Roar.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/b7DSD7h.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3448,6 +3683,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Veteran 1. Deploy: Damage a Unit by 5. If it was Destroyed, Strengthen 1 of the Highest Units in your Graveyard by 3.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/JbDIO2c.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3462,6 +3698,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Veteran 1. Deploy: Damage self by 1.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/rEnuetB.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3476,6 +3713,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Whenever this Unit is Discarded or Destroyed, Resurrect it and Weaken it by half its Power (rounding up).</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/sNbvXRw.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3490,6 +3728,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Return a Unit from your Graveyard to your Hand, then Discard a card from your Hand.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/RKHjaNC.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3504,6 +3743,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Deploy: Resurrect a Unit.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/wrEZx9d.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3518,6 +3758,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Veteran 1. After 2 turns, at the end of your turn, convert this Unit's current Power into base Power.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/3u6rIBN.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3532,6 +3773,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Veteran: Strengthen self by 1. Deploy: Draw a card (including Golds) then Discard a card from your Hand.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/4NXXXA0.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3546,6 +3788,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Deploy: Draw the top 2 cards from your Deck. Keep one and Discard the other.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/3wWA6M4.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3560,6 +3803,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Veteran: Strengthen self by 1. Deploy: Heal 3 Units to the left.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/Lzwy0oN.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3574,6 +3818,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Veteran: Strengthen self by 1. Deploy: Strengthen a Unit by 2.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/aSlavuT.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3588,6 +3833,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Whenever you Discard a Unit, Damage a random Enemy by 2.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/8BaCD72.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3602,6 +3848,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Veteran: 1. Whenever this Unit is Discarded, Resurrect it immediately.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/SfWpaEM.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3616,6 +3863,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Veteran: 1. Deploy: Boost 3 Damaged Units to the left by half their Power (rounding up).</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/RucItKJ.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3630,6 +3878,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Veteran: 1. Deploy: Damage self by 1.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/9YlEaRV.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3644,6 +3893,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Whenever a Unit adjacent to this Unit is Damaged, Strengthen self by 1. Deploy: Damage a Unit by 3.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/7aDGDkd.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3658,6 +3908,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Every turn, at the start of your turn, Damage the Unit to the right by 1, then Strengthen self by 2.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/9TAoJzr.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3672,6 +3923,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Veteran: Strengthen self by 1. Deploy: Discard all copies of this Unit from your Deck.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/TJohAam.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3686,6 +3938,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Veteran: 1. Whenever you Discard a Unit, Boost self by 1 while in your Hand, Deck or on your side of the Board.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/InYK670.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3700,6 +3953,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Deploy: Resurrect all your Queensguards.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/MSB7e1g.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3714,6 +3968,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Deploy: Damage a Unit by 2. If it was already Damaged, play a Clan Drummond Shieldmaiden from your Deck.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/dflzhZs.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3728,6 +3983,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Veteran: Strengthen self by 1. Deploy: Boost 3 Units to the left by 3, 2 and 1 respectively.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/uBeG5he.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3742,6 +3998,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Deploy: Resurrect a Bronze Unit from your Graveyard.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/p7yEbiK.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3756,6 +4013,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>After an Enemy is played from any Hand and its Deploy ability resolves, Damage it by 1.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/HF9ROUK.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3770,6 +4028,7 @@ Spectral Whale: 3 Strength, Agile, Doomed, Specter, Disloyal, Silver. Every turn
             <text>Strengthen self by 1 for each Damaged Ally (including Golds), then Damage self by 1.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/ScSChDL.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3787,6 +4046,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <related>Raging Bear</related>
                 
             <set rarity="Bronze" picURL="https://i.imgur.com/fR4BYVl.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3801,12 +4061,13 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Veteran: 1. Deploy: Damage 3 Units by 1.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/WWETFIZ.jpg">SK</set>
+            
         </card> 
     
         <card>
             <name>Tuirseach Axeman</name>
             <prop>
-                <pt>3</pt>
+                <pt>3/2</pt>
                 <type>Agile, Loyal, Rare</type>
                 <maintype>Bronze</maintype>
                 <colors>Bronze</colors>
@@ -3815,6 +4076,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Gain 2 Armor. Whenever an Enemy is Damaged, Boost self by 1.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/4GFWeui.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3829,6 +4091,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Veteran: Strengthen self by 1. Whenever this Unit enters the Graveyard, Strengthen it by 3.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/moyPtWe.jpg">SK</set>
+            
         </card> 
     
         <card>
@@ -3843,6 +4106,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Spawn Emhyr var Emreis. Deploy: Return an Ally to your Hand, then play a card from your Hand (can be Gold).</text>
 
             <set rarity="Leader" picURL="https://i.imgur.com/epjimjo.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -3857,6 +4121,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Spawn John Calveit. Deploy: Look at the top 3 Bronze or Silver cards in your Deck. Play 1. The others remain on top.</text>
 
             <set rarity="Leader" picURL="https://i.imgur.com/aULvqt1.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -3871,6 +4136,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Spawn Morvran Voorhis. Deploy: Reveal up to 3 cards from either player's Hand (can be Golds).</text>
 
             <set rarity="Leader" picURL="https://i.imgur.com/5Em6gCS.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -3885,6 +4151,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Lock and Destroy an Enemy.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/DjoU1b2.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -3899,6 +4166,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: If playing as Nilfgaard, trigger your Leader's Deploy ability.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/lc2RMrk.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -3913,6 +4181,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: If Spying, set own base Power to 1. Deploy: Banish 2 Units to each side of this Unit and Boost this Unit by their Power.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/gRhQfRE.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -3927,6 +4196,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Reveal a Unit in your Hand (can be Gold) and Damage an Enemy by its Base Power.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/qMhPPGX.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -3941,6 +4211,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Destroy all Spying Enemies.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/TLjMvwi.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -3955,6 +4226,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Play a Disloyal Unit from your Deck. Shuffle the others back.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/F4cQrWR.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -3969,6 +4241,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Choose any card from your Deck and place it on top. Then shuffle the rest of your Deck.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/OHqX1dq.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -3983,6 +4256,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: If neither player has passed, Boost self by 15, then your opponent draws the top Bronze card from their Deck and Reveals it.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/gY4SETb.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -3997,6 +4271,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Reveal up to 2 cards from your Hand (can be Golds). For each, Reveal 1 random card from your opponent's Hand (can be Gold).</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/qpwIrZc.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4011,6 +4286,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Destroy an Ally, then play a top card from your Deck (including Golds) or Clash: Destroy an Enemy, then your opponent draws a revealed Bronze card.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/FMabYXI.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4025,6 +4301,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Look at the top 3 cards in your opponent's Deck. You may move 1 to the bottom of their Deck.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/OJKJwnA.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4039,6 +4316,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: If neither player has passed, each player draws the top card from their Deck. Your opponent's card is Revealed.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/rdLvBWj.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4053,6 +4331,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Shuffle up to 2 cards from either Graveyard into that player's Deck.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/aDRjJrT.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4067,6 +4346,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Toggle 2 Units' Lock. If Enemies, Damage them by 1 as well.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/SlqzyL6.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4081,6 +4361,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Draw the top card from your Deck. Keep it, or place it at the bottom of your Deck and draw the new top card.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/xqbB0bN.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4095,6 +4376,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Move 2 Bronze Spying Enemies to your side.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/nHSndlh.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4109,6 +4391,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Reveal 1 of the Highest Units in your opponent's Hand (including Golds) and Boost self by its Power.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/3DehPDa.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4123,6 +4406,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>If this Unit is Spying at the start of your turn, Boost it by 1. If it is Spying when your opponent passes, move it to the opposite side.             Deploy: When you play this Unit on your side, Strengthen it by 3.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/zjFv9NK.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4137,6 +4421,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: If Spying, set own base Power to 1. Deploy: Set the Power of the Unit on the right to that of the Unit on the left.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/MZR43NF.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4151,6 +4436,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Play the top Loyal Bronze or Silver Unit in your Deck and Boost it by 10.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/GhMifnu.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4165,6 +4451,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Reset a Unit. If it's an Ally, Strengthen it by 3. If it's an Enemy, Weaken it by 3.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/h2jDpkH.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4179,6 +4466,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Set the Power of a Revealed Unit in your opponent's Hand to 1.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/7MYhYNx.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4193,6 +4481,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Choose an Enemy or a Revealed opposing Unit and move all copies of it from your opponent's Deck to their Graveyard.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/DDurkAm.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4209,6 +4498,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <related>Lesser Guardian</related>
                 
             <set rarity="Silver" picURL="https://i.imgur.com/ZCTEbof.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4223,6 +4513,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Play the bottom card from your opponent's Deck..</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/DjoU1b2.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4237,12 +4528,13 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Spawn Biting Frost, Clear Skies or Stammelford's Tremors.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/9sgw1CH.jpg">NG</set>
+            
         </card> 
     
         <card>
             <name>Alba Pikeman</name>
             <prop>
-                <pt>5</pt>
+                <pt>5/2</pt>
                 <type>Agile, Loyal, Rare</type>
                 <maintype>Bronze</maintype>
                 <colors>Bronze</colors>
@@ -4251,6 +4543,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>After 2 turns, at the start of your turn, play an Alba Pikeman on the row.Deploy: Gain 2 Armor.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/01i0PoP.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4265,6 +4558,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Give this Unit a Shield.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/7KKzO41.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4279,6 +4573,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Reveal a card.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/8RoAqJy.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4293,6 +4588,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Boost an Ally by 10.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/SQggrSQ.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4307,6 +4603,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Toggle a Unit's Resilience.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/3bl0L1m.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4321,6 +4618,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>When this Unit is Revealed, play it and draw the top card from your Deck.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/xUQKtxg.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4335,6 +4633,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Damage an Enemy by 3. If it was Boosted, Damage it by 5 instead.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/a969qD4.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4349,6 +4648,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Draw the top 2 Bronze Units (not including Emissaries) from your Deck. Play 1 and shuffle the other back.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/plDmb8t.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4363,6 +4663,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Resurrect a Bronze Unit from your opponent's Graveyard.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/EotoFDf.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4377,6 +4678,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Whenever this Unit is Revealed, Damage a random Enemy by 3. Deploy: Damage an Enemy by 3.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/q0PXRmN.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4391,6 +4693,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Whenever you play a Spying Unit (including Golds), Boost self by 2. Deploy: Boost self by 2 for each Spying Enemy (including Golds).</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/CnpjH4z.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4405,6 +4708,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Look at the top card in your Deck. If it's Bronze, gain 2 Armor. If it's Silver, Boost self by 1. If it's Gold, Promote self.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/GiCVU4b.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4419,6 +4723,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Orders: Summon this Unit.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/PVAa0sN.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4433,6 +4738,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Whenever a card is Revealed, Damage a random Enemy by 2.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/zPrfbKI.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4447,6 +4753,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Damage a Spying Unit by 5. If it was Destroyed, Strengthen self by 4.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/vTxErfV.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4461,12 +4768,13 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Clear Weather from the row on your side and Boost 1 Ally or Revealed Unit in your Hand by 3</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/QJo4iFc.jpg">NG</set>
+            
         </card> 
     
         <card>
             <name>Nilfgaardian Knight</name>
             <prop>
-                <pt>10</pt>
+                <pt>10/2</pt>
                 <type>Melee, Loyal, Common</type>
                 <maintype>Bronze</maintype>
                 <colors>Bronze</colors>
@@ -4475,6 +4783,7 @@ Raging Bear: 10 Strength, Melee, Cursed, Beast, Loyal, Bronze. No Ability.</text
             <text>Deploy: Gain 2 Armor. Deploy: Reveal a random card from your Hand (can be Gold).</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/qS21t48.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4492,6 +4801,7 @@ Cow Carcass: 1 Strength, Agile, Doomed, Beast, Disloyal, Bronze. Timer 2, Turn E
             <related>Cow Carcass</related>
                 
             <set rarity="Bronze" picURL="https://i.imgur.com/0mLKtAF.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4506,6 +4816,7 @@ Cow Carcass: 1 Strength, Agile, Doomed, Beast, Disloyal, Bronze. Timer 2, Turn E
             <text>Whenever either player Reveals a card, Boost self by 1 while in your Hand, Deck or on your side of the Board.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/ZtJIlws.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4520,6 +4831,7 @@ Cow Carcass: 1 Strength, Agile, Doomed, Beast, Disloyal, Bronze. Timer 2, Turn E
             <text>Deploy: Trigger the ability of a Spying Enemy Ambassador or Emissary.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/CayDWpK.jpg">NG</set>
+            
         </card> 
     
         <card>
@@ -4534,6 +4846,7 @@ Cow Carcass: 1 Strength, Agile, Doomed, Beast, Disloyal, Bronze. Timer 2, Turn E
             <text></text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/MIRCQd7.jpg">TK</set>
+            <token>1</token>
         </card> 
     
         <card>
@@ -4548,6 +4861,7 @@ Cow Carcass: 1 Strength, Agile, Doomed, Beast, Disloyal, Bronze. Timer 2, Turn E
             <text></text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/d84F3vp.jpg">TK</set>
+            <token>1</token>
         </card> 
     
         <card>
@@ -4562,6 +4876,7 @@ Cow Carcass: 1 Strength, Agile, Doomed, Beast, Disloyal, Bronze. Timer 2, Turn E
             <text>Deploy: Destroy all Units on the Board. Clear all Weather. Banish all Allied Kambis.</text>
 
             <set rarity="Gold" picURL="https://i.imgur.com/V2udHw7.jpg">TK</set>
+            <token>1</token>
         </card> 
     
         <card>
@@ -4576,6 +4891,7 @@ Cow Carcass: 1 Strength, Agile, Doomed, Beast, Disloyal, Bronze. Timer 2, Turn E
             <text>When removed from the battlefield, add 10 strength to any Hjalmars on the opposite side.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/mvEKPAs.jpg">TK</set>
+            <token>1</token>
         </card> 
     
         <card>
@@ -4590,6 +4906,7 @@ Cow Carcass: 1 Strength, Agile, Doomed, Beast, Disloyal, Bronze. Timer 2, Turn E
             <text>Every turn, at the start of your turn move this unit to a random row on its side and Damage all other Units on the Row by 1.</text>
 
             <set rarity="Silver" picURL="https://i.imgur.com/qaDHZYO.jpg">TK</set>
+            <token>1</token>
         </card> 
     
         <card>
@@ -4604,6 +4921,7 @@ Cow Carcass: 1 Strength, Agile, Doomed, Beast, Disloyal, Bronze. Timer 2, Turn E
             <text>Timer 2, Turn End: Destroy the Weakest Unit(s) on the row, then Banish this Unit.</text>
 
             <set rarity="Bronze" picURL="https://i.imgur.com/sEBXj3U.jpg">TK</set>
+            <token>1</token>
         </card> 
     
         <card>
@@ -4618,6 +4936,7 @@ Cow Carcass: 1 Strength, Agile, Doomed, Beast, Disloyal, Bronze. Timer 2, Turn E
             <text></text>
 
             <set rarity="" picURL="https://i.imgur.com/U5E623h.jpg">TK</set>
+            <token>1</token>
         </card> 
     
         <card>
@@ -4632,6 +4951,7 @@ Cow Carcass: 1 Strength, Agile, Doomed, Beast, Disloyal, Bronze. Timer 2, Turn E
             <text>After 1 turn, at the end of your turn, damage all other Units on the Row by 2 strength and banish self</text>
 
             <set rarity="" picURL="https://i.imgur.com/yLlAEL3.jpg">TK</set>
+            <token>1</token>
         </card> 
     
     </cards>
